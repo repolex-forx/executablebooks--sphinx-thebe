@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-thebe",
+  "versions": [
+    {
+      "commit": "60aa219f0a69939337510776b12fb3e54c444454",
+      "tag": "v0.3.1",
+      "parsed_at": "2026-10-12T20:04:02.207014+00:00"
+    }
+  ]
+}
