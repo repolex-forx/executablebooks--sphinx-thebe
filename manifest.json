@@ -1,0 +1,44 @@
+{
+  "manifest_version": "1.0",
+  "org": "executablebooks",
+  "repo": "sphinx-thebe",
+  "versions": [
+    {
+      "commit": "60aa219f0a69939337510776b12fb3e54c444454",
+      "parsed_at": "2026-10-12T20:01:48.800176+00:00",
+      "tag": "v0.3.1",
+      "filetree": "filetree/60aa219f0a69939337510776b12fb3e54c444454.nq.gz",
+      "blobs": [
+        "blob/951baec2e7542c8b9e73343b4d55e196550d4570.nq.gz",
+        "blob/481dbcad1c977aa7207b2535c7c160632c0cc415.nq.gz",
+        "blob/c818922825cd112a24906862879a8986baa15200.nq.gz",
+        "blob/dab6ba48f3dcb26eae65920afb84113b1ebb141f.nq.gz",
+        "blob/af278b9b7444c0de1da68bf8d9673937988d212d.nq.gz",
+        "blob/e9983f58a89f39481d3d1e3f6d9eb44be2e08b53.nq.gz",
+        "blob/8fb235d7045be0330d94bcb3abd2ac43badaa197.nq.gz",
+        "blob/bb6ad31f28e51f73a3bccb67773251ff14af2f47.nq.gz",
+        "blob/f85c18946c01b35af153c3f5ca88b63523b1e09f.nq.gz",
+        "blob/1da27930c257319b15b754b41576d7b8b0afbe67.nq.gz",
+        "blob/6fd486de397922a0f32a40a6cc9525afb4ef81a4.nq.gz",
+        "blob/9d50ff17569a7bf7166a183ae2b72475adcfba09.nq.gz",
+        "blob/c875455cf7149771db3bd0a6954fa7d539a91d86.nq.gz",
+        "blob/13252d22ef1fe74bd182348d1782d7a89bc49d98.nq.gz",
+        "blob/1c8d1ab9c972229a3fbc504d49f626c6a3f1cc22.nq.gz",
+        "blob/c5410ec16606021577cb0b1adbcefda792504273.nq.gz",
+        "blob/67055804c23e04fceb5a8e378f383000c01b3843.nq.gz",
+        "blob/d92b1d3b177aad0451488195cd6c544fd0e1f66a.nq.gz",
+        "blob/cd126252cb9fd9236178b5270addb721f56b5d16.nq.gz",
+        "blob/8261b353e8cb01273fad0ba8573b66cfc72e8d5c.nq.gz",
+        "blob/bcd81f7a6d11914d9173c2452869209130f1f6cc.nq.gz",
+        "blob/4e491bb0e7e18fc21c2b6a29b6930b8c2b349a8e.nq.gz",
+        "blob/d6e946149293b952e4b5ce151c2b4666a84d4fa0.nq.gz",
+        "blob/e0074aa34e987476a214065f5532b302f0613e6f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
