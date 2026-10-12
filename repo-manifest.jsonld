@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-thebe/commit/60aa219f0a69939337510776b12fb3e54c444454",
       "git:hexsha": "60aa219f0a69939337510776b12fb3e54c444454",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.3.1"
     },
     {

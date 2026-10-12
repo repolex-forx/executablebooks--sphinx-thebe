@@ -1,0 +1,7 @@
+[2026-10-12T20:02:54Z] === AST ITERATION 1 START | repo=executablebooks/sphinx-thebe sha=60aa219f ===
+[2026-10-12T20:02:54Z] [iter=1] PHASE START: ast repo=executablebooks/sphinx-thebe sha=60aa219f
+[2026-10-12T20:02:54Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T20:02:56Z] [iter=1] AST chunks built count=1 triples=22899
+[2026-10-12T20:02:56Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/60aa219f0a69939337510776b12fb3e54c444454/.complete
+[2026-10-12T20:02:56Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-12T20:02:56Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
